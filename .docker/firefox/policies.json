@@ -25,7 +25,19 @@
         "Favicon": "https://www.google.com/favicon.ico",
         "Folder": "Pages",
         "Placement": "toolbar"
+      },
+      {
+        "Title": "Discord",
+        "URL": "https://www.discord.com/app",
+        "Favicon": "https://cdn.discordapp.com/attachments/828432875472814100/1153804943862538250/2discordlogo.png",
+        "Folder": "Pages",
+        "Placement": "toolbar"
       }
+    ],
+    "DownloadRestrictions": 0,
+    "AllowFileSelectionDialogs": true,
+    "URLAllowlist": [
+    "file:///home/neko/Downloads"
     ],
     "CaptivePortal": false,
     "DisableAppUpdate": true,
@@ -33,7 +45,7 @@
     "DisableDeveloperTools": false,
     "DisableFeedbackCommands": true,
     "DisableFirefoxAccounts": true,
-    "DisableFirefoxScreenshots": true,
+    "DisableFirefoxScreenshots": false,
     "DisableFirefoxStudies": true,
     "DisableForgetButton": true,
     "DisableMasterPasswordCreation": true,
